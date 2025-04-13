@@ -1,5 +1,9 @@
 # WARMUP SET CALCULATOR
 ### Video Demo:  [https://youtu.be/UR5NkRY25zc?feature=shared]
+
+> [!NOTE]
+> This project was done in March 2024 as a final project for Harvard's CS50P curriculum
+
 ### Description
 Tired of manually calculating your warmup sets' weights? This program automates this process by outputting the weight of each warmup set based on your working sets' weight. The weights and sets will be calculated in a "pyramid" style, wherein the weight gets heavier as the reps diminish. This primes your body for your working sets so that you can give your best effort on those sets.
 
